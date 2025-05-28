@@ -12,5 +12,5 @@ quick_facts:
   - "🚀 Passionate about building smart systems for real-world impact"
 
 linkedin: www.linkedin.com/in/alexes-mensah-b69619302
-image: /assets/images/me.jpg
+image: /assets/images/GIT IMAGE.jpeg
 ---
