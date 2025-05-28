@@ -15,7 +15,7 @@ about:
 
     When I’m not working on research, I enjoy photography, watching films, and sewing fashion pieces.
 
-  hobbies:
+    hobbies:
     - icon: 📷      
     title: Videography
       description: Ive been into create videos and phtography since i was very young. 
