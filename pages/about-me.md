@@ -6,7 +6,7 @@ permalink: /about-me.html
 about:
   name: Alexes Mensah
   role: Junior, Morgan State University
-  image: /assets/images/me.jpg
+  image: /assets/images/GIT IMAGE.jpeg
   linkedin: www.linkedin.com/in/alexes-mensah-b69619302
   bio: |
     I’m currently a junior studying Marketing at Morgan State University. I expect to graduate in 2025.
