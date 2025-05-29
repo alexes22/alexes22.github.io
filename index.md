@@ -11,6 +11,6 @@ quick_facts:
   - "📍 Based in Baltimore, MD"
   - "🚀 Passionate about building smart systems for real-world impact"
 
-linkedin: www.linkedin.com/in/alexes-mensah-b69619302
+linkedin: http://www.linkedin.com/in/alexes-mensah-b69619302
 image: /assets/images/GIT IMAGE.jpeg
 ---
