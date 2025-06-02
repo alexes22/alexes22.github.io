@@ -25,9 +25,9 @@ about:
   
 
   gallery:
-    - image: /assets/images/me-guitar.png
-      caption: Playing guitar at the park!
-    - image: /assests/images/sewing.jpg
+    - image: /assets/images/
+      caption:
+    - image: /assests/images/sewings.png
       caption: Sewing is one of my hobbies :)
     - image: 
       caption: My favorite portrait of myself :)
