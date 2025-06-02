@@ -27,7 +27,7 @@ about:
   gallery:
     - image: /assets/images/
       caption:
-    - image: /assests/images/sewings.png
+    - image: /assests/images/sew-ings.png
       caption: Sewing is one of my hobbies :)
     - image: 
       caption: My favorite portrait of myself :)
