@@ -24,7 +24,7 @@ approach: |
 
 
 outcome: |
-  Expected Outcome
+Expected Outcome:
 By the end of this research program, the project will result in a working prototype of a smart water contamination detection system. This system will demonstrate the ability to continuously monitor water quality in real time using multispectral sensors and low-cost IoT hardware.
 Also accurately detect and classify contaminants such as E. coli, lead, and nitrates using trained machine learning models.
 Distinguish between clean, contaminated, and disinfected water samples, validated through spectral analysis and microbial testing.
