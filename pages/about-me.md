@@ -31,6 +31,5 @@ about:
       caption: Sewing is one of my hobbies :)
     - image: /assets/images/black.png
       caption: My parents are liberian and I have 3 siblings!!
-    - image: /assets/images/
-      caption: 
+    -
 ---
