@@ -24,13 +24,4 @@ about:
       description: I enjoy sewing different fashion pieces.
   
 
-  gallery:
-    - image: /assets/images/filme.png
-      caption: I love watching films and creating them!!
-    - image: /assests/images/sew.png
-      caption: Sewing is one of my hobbies :)
-    - image: /assets/images/black.png
-      caption: My parents are liberian and I have 3 siblings!!
-    -
-    ---
   
