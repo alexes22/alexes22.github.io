@@ -29,7 +29,7 @@ outcome: |
   It will visualize water quality data through a user-friendly dashboard or application interface, enabling live alerts and historical tracking.
   The project aims to provide scalable potential for deployment in urban and rural communities, especially those vulnerable to waterborne disease outbreaks or lacking traditional lab testing infrastructure.
 
-final_report_url: ""  # Add a link here later or leave as empty string
+final_report_url:
 
 grad_mentor:
   name: Olorunfunmi Shobowale
