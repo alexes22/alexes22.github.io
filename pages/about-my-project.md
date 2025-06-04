@@ -33,7 +33,7 @@ final_report_url: ""  # Add a link here later or leave as empty string
 
 grad_mentor:
   name: Olorunfunmi Shobowale
-  linkedin: ""  # Add LinkedIn link or leave as empty string
+  linkedin:
 
 faculty_mentor:
   name: Steve Efe
