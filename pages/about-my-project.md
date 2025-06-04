@@ -24,7 +24,14 @@ approach: |
 
 
 outcome: |
-  By the end of the program, the project will result in a working prototype.
+  Expected Outcome
+By the end of this research program, the project will result in a working prototype of a smart water contamination detection system. This system will demonstrate the ability to continuously monitor water quality in real time using multispectral sensors and low-cost IoT hardware.
+Also accurately detect and classify contaminants such as E. coli, lead, and nitrates using trained machine learning models.
+Distinguish between clean, contaminated, and disinfected water samples, validated through spectral analysis and microbial testing.
+Visualize water quality data through a user-friendly dashboard or application interface, enabling live alerts and historical tracking.
+Provide scalable potential for deployment in urban and rural communities, especially those vulnerable to waterborne disease outbreaks or lacking traditional lab testing infrastructure.
+
+
 final_report_url:
 
 grad_mentor:
@@ -32,6 +39,6 @@ grad_mentor:
   linkedin: 
 
 faculty_mentor:
-  name: 
+  name: Steve Efe
   linkedin: https://www.linkedin.com/in/
 ---
