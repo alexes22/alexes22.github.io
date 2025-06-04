@@ -22,22 +22,20 @@ approach: |
 
   "Smart Water Quality Monitoring with IoT Wireless Sensor Networks"
 
-
 outcome: | 
   By the end of this research program, the project will result in a working prototype of a smart water contamination detection system. This system will demonstrate the ability to continuously monitor water quality in real time using multispectral sensors and low-cost IoT hardware.
-Also accurately detect and classify contaminants such as E. coli, lead, and nitrates using trained machine learning models.
-Distinguish between clean, contaminated, and disinfected water samples, validated through spectral analysis and microbial testing.
-Visualize water quality data through a user-friendly dashboard or application interface, enabling live alerts and historical tracking.
-Provide scalable potential for deployment in urban and rural communities, especially those vulnerable to waterborne disease outbreaks or lacking traditional lab testing infrastructure.
+  It will also accurately detect and classify contaminants such as E. coli, lead, and nitrates using trained machine learning models.
+  The system will distinguish between clean, contaminated, and disinfected water samples, validated through spectral analysis and microbial testing.
+  It will visualize water quality data through a user-friendly dashboard or application interface, enabling live alerts and historical tracking.
+  The project aims to provide scalable potential for deployment in urban and rural communities, especially those vulnerable to waterborne disease outbreaks or lacking traditional lab testing infrastructure.
 
-
-final_report_url:
+final_report_url: ""  # Add a link here later or leave as empty string
 
 grad_mentor:
   name: Olorunfunmi Shobowale
-  linkedin: 
+  linkedin: ""  # Add LinkedIn link or leave as empty string
 
 faculty_mentor:
   name: Steve Efe
-  linkedin: https://www.linkedin.com/in/
+  linkedin: "https://www.linkedin.com/in/"
 ---
