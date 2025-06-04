@@ -25,8 +25,8 @@ about:
   
 
   gallery:
-    - image: /assets/images/
-      caption:
+    - image: /assets/images/filme.png
+      caption: I love watching films and creating them!!
     - image: /assests/images/sewgirl.png
       caption: Sewing is one of my hobbies :)
     - image: 
