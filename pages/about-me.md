@@ -27,10 +27,10 @@ about:
   gallery:
     - image: /assets/images/filme.png
       caption: I love watching films and creating them!!
-    - image: /assests/images/sewgirl.png
+    - image: /assests/images/sew.png
       caption: Sewing is one of my hobbies :)
-    - image: 
-      caption: My favorite portrait of myself :)
-    - image: /assets/images/me-pi.png
-      caption: Working on a personal project w/ the Raspberry PI
+    - image: /assets/images/black.png
+      caption: My parents are liberian and I have 3 siblings!!
+    - image: /assets/images/
+      caption: 
 ---
