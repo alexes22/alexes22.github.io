@@ -1,0 +1,24 @@
+---
+layout: post
+title: "Day 28 – Finalizing Sensor Wiring and Firebase Setup"
+date: 2025-06-28
+author: Alexes Mensah
+permalink: /day28.html
+tags:
+  - Firebase
+  - Sensors
+  - Breadboard
+  - Data Organization
+  - Teamwork
+
+what_i_learned: |
+  Today I helped my group finish the sensor wiring on the breadboard. We double-checked all connections, made sure the sensors were correctly placed, and labeled the wires to avoid confusion during future testing. I also worked on setting up and organizing the Firebase database so our sensor data could display in real time. It was really exciting to finally see the readings updating live.
+
+  We spent time improving the layout of our interface to make it more user-friendly, especially for people who might not be familiar with sensor data or coding. I learned that designing for others means thinking about clarity and simplicity. We also discussed the impact of incorrect sensor readings and why it’s important to test carefully to maintain reliable data.
+
+blockers: |
+  Some sensors, especially the lead and TDS sensors, didn’t provide accurate readings at first. We had to spend extra time troubleshooting these issues. We also ran into connection problems with Firebase and had to reset and reconfigure some settings to get it working properly.
+
+reflection: |
+  I’m proud that we got most of the system running today. It took a lot of teamwork and patience to solve the problems we faced, but we worked through them. I’m excited to present our work and show how far we’ve come as a group.
+---
